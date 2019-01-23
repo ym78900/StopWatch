@@ -1,4 +1,5 @@
 # StopWatch
+<img width="28%" height="auto" src="https://user-images.githubusercontent.com/42619243/51637290-099d3880-1f64-11e9-957f-672dabf8c717.png">
 A simple stop watch for simple use.
 <img width="59" alt="logo" src="https://user-images.githubusercontent.com/42619243/51549524-43dadd00-1e73-11e9-937a-416dbc7dd1e3.png">
 <br>
