@@ -29,7 +29,7 @@ HTML Code:
     </body>
 </html>
 ```
-and I used JavaScript and Jquery for the scripts: <img width="59" href="https://user-images.githubusercontent.com/42619243/51636877-f89ff780-1f62-11e9-83fd-0968e87c1d7a.png">
+and I used JavaScript and Jquery for the scripts: <img width="59" src="https://user-images.githubusercontent.com/42619243/51636877-f89ff780-1f62-11e9-83fd-0968e87c1d7a.png">
 ```
 var hours =0;
 var mins =0;
