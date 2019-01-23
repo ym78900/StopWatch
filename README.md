@@ -1,12 +1,12 @@
 # StopWatch
-<img width="28%" height="auto" src="https://user-images.githubusercontent.com/42619243/51637290-099d3880-1f64-11e9-957f-672dabf8c717.png">
+<img width="28%" src="https://user-images.githubusercontent.com/42619243/51637290-099d3880-1f64-11e9-957f-672dabf8c717.png">
 A simple stop watch for simple use.
 <img width="59" alt="logo" src="https://user-images.githubusercontent.com/42619243/51549524-43dadd00-1e73-11e9-937a-416dbc7dd1e3.png">
 <br>
 HTML Code:
 <br>
-```
-<html>
+````
+   <html>
     <head>
         <title>
             Simple stopwatch
@@ -30,7 +30,7 @@ HTML Code:
     <script type="text/javascript" src="main.js"></script>
     </body>
 </html>
-```
+````
 <br>
 and I used JavaScript and Jquery for the scripts: <img width="25" src="https://user-images.githubusercontent.com/42619243/51636877-f89ff780-1f62-11e9-83fd-0968e87c1d7a.png"><img width="25" src="https://user-images.githubusercontent.com/42619243/51637128-998eb280-1f63-11e9-95b3-b84d8011030b.png">
 <br>
