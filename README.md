@@ -31,6 +31,7 @@ HTML Code:
 </html>
 ```
 and I used JavaScript and Jquery for the scripts: <img width="25" src="https://user-images.githubusercontent.com/42619243/51636877-f89ff780-1f62-11e9-83fd-0968e87c1d7a.png"><img width="25" src="https://user-images.githubusercontent.com/42619243/51637128-998eb280-1f63-11e9-95b3-b84d8011030b.png">
+
 ```
 var hours =0;
 var mins =0;
