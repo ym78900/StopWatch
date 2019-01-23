@@ -1,7 +1,7 @@
 # StopWatch
 A simple stop watch for simple use.
 HTML Code:
-``<html>
+```<html>
     <head>
         <title>
             Simple stopwatch
